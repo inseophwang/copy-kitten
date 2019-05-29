@@ -1,4 +1,30 @@
-* { 
+* {
 	margin: 0;
 	box-sizing: border-box;
 }
+div {
+	background-color: #404149;
+	margin-top: 15px;
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-left: 10px;
+
+}
+li { 
+	display: inline;
+	margin-right: 45px;
+	font-size: 10px;
+}
+a {
+	color: #D0CCCD;
+	text-decoration: none;
+	background-color: #404149;
+	display: inline;
+	font-size: 5px;
+}
+
+a:hover {
+	color: #4CA896;
+}
+
